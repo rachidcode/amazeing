@@ -29,3 +29,8 @@ The maze map looks like this:
 ![Aperçu](img/lab.png)
 
 
+
+
+ [Link to my labyrinth](https://rachidcode.github.io/amazeing/)
+
+
