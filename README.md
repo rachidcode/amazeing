@@ -26,7 +26,7 @@ Using loops and the DOM to generate simple templates. Using keyboard events
 
 The maze map looks like this:
 
-![Aperçu](img/labproj_preview_rev_1)
+![Aperçu](img/lab.png)
 
 
 ## Starting tips
