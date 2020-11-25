@@ -14,6 +14,10 @@ const multiline =
 *.******...**
 *....********`
 
+const titre = document.createElement('h1');
+titre.textContent = 'Labyrinthe';
+main.appendChild(titre);
+
 const lab = document.createElement('div')
 lab.className = "lab"
 main.appendChild(lab)
