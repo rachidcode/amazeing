@@ -14,7 +14,7 @@ Using loops and the DOM to generate simple templates. Using keyboard events
 
 ## The mission
 
-- Create a new repository named `amazeing`
+- Create a new repository  named `amazeing`
 - Create a `maze.js` file.
 - Create a file named `index.html`. In the `<body>` you can only put an empty `<main>` tag, and the link to your javascript file. The rest of the app has to be generated using your script
 - Use [this text file](lvl1.txt) as a reference to build a maze. `*` are walls, `.` are paths, `S` is the starting point fo the player and `T` is the treasure you should reach in order to end the game. 
