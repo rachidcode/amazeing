@@ -28,11 +28,6 @@ The maze map looks like this:
 
 ![maze](map.png)
 
-## BONUS
-
-- Add more levels
-- Display the time spent to solve the maze
-- Make it pretty!
 
 ## Starting tips
 
