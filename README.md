@@ -1,4 +1,4 @@
-# AMAZEing
+# AMAZEING
 
 Let's build a simple Maze program
 
@@ -29,17 +29,3 @@ The maze map looks like this:
 ![Aperçu](img/lab.png)
 
 
-## Starting tips
-
-To start this project I would store the maze in a variable first. You can create multiline string variables using backticks and split each lines into an array using the [String.split function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split)
-```javascript
-
-const multiline = `line1
-line2
-line3`
-
-console.log(multiline.split('\n')) // ['line1", 'line2', 'line3']
-console.log(multiline[0].split('')) // ['l', 'i', 'n', 'e', '1']
-```
-
-Something in the likes of `const mazeArray = maze.split('\n')` would allow me to iterate over the maze using for-loop
