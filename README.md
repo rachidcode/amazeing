@@ -31,6 +31,6 @@ The maze map looks like this:
 
 
 
- [Labyrinthe](https://rachidcode.github.io/amazeing/)
+ [Link to my labyrinth](https://rachidcode.github.io/amazeing/)
 
 
